@@ -6,8 +6,8 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const INPUT_DIR = path.join(__dirname, '../src/assets');
-const OUTPUT_DIR = path.join(__dirname, '../src/assets');
+const INPUT_DIR = path.join(__dirname, '../public/assets');
+const OUTPUT_DIR = path.join(__dirname, '../public/assets');
 
 async function optimizeImage(inputPath, outputPath, format) {
   try {
@@ -58,7 +58,15 @@ async function processDirectory(dir) {
 
 async function main() {
   console.log('🚀 Starting image optimization...');
-  
+
+  try {
+    // ✅ Safety check: only run if folder exists
+    await fs.access(INPUT_DIR);
+  } catch {
+    console.log(`⚠️ Skipping image optimization — folder not found: ${INPUT_DIR}`);
+    return;
+  }
+
   try {
     await processDirectory(INPUT_DIR);
     console.log('✅ Image optimization complete!');

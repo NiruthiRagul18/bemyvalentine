@@ -1,0 +1,238 @@
+{
+  "names": {
+    "sender": "Ragul",
+    "receiver": "Niruthi"
+  },
+  "theme": {
+    "primaryColor": "#ff7ab2",
+    "secondaryColor": "#ff4d8d",
+    "accentColor": "#ffc0cb",
+    "fontFamily": "Arial, sans-serif"
+  },
+  "content": {
+    "title": "Will you be my forever love, for eternity and beyond?💖",
+    "subtitle": "Choose wisely 😉 It’s a one-time deal—no going back. (The \"No\" button is... shy.)",
+    "yesButtonText": "YES 👉🥰💞💍",
+    "noButtonText": "NO 👉🥺💔",
+    "successMessage": "😍 Wowweee… look what you did — now I’m grinning like an idiot 😄💞",
+    "successSubtitle": "I see you made a pretty good choice 😉❤️",
+    "giftsTitle": "💝 Your Valentine Gifts 💝",
+    "giftsSubtitle": "Click here for the Valentine gifts, My Sweet Sweet Ladoooo! 🎁",
+    "songsTitle": "Our Love Sounds Like This!🎵",
+    "photosTitle": "Timeless Moments with You!📸",
+    "letterTitle": "To eternal Love!❤️",
+    "prosConsTitle": "Why You Should Choose me as Your Valentine ❤️",
+    "prosConsSubtitle": "Nothing!!!!"
+  },
+  "media": {
+    "mainBearGif": "/src/assets/cute-bear.gif",
+    "musicBearGif": "/src/assets/music-bear.gif",
+    "comfortBearGif": "/src/assets/comfort-bear.gif",
+    "kissBearGif": "/src/assets/kiss-bears.gif",
+    "photoBearGif": "/src/assets/photo-bear.gif",
+    "loveYouBearGif": "/src/assets/love-you-bear.gif",
+    "childGif": "/src/assets/child.gif",
+    "roseBearGif": "/src/assets/rose-bear.gif",
+    "cookBearGif": "/src/assets/cook-bear.gif",
+    "kissSingleBearGif": "/src/assets/kiss-bear.gif",
+    "leftButton": "/src/assets/left-button.png",
+    "rightButton": "/src/assets/right-button.png",
+    "envelopeSeal": "❤️"
+  },
+  "gifts": {
+    "gift1": "/src/assets/gift/gift1.jpg",
+    "gift2": "/src/assets/gift/gift2.jpg", 
+    "gift3": "/src/assets/gift/gift3.jpg"
+  },
+  "couplePhotos": [
+    {
+      "image": "/src/assets/couple_photo/couple_photo_1.jpg",
+      "caption": "Our first step into new beginnings 🌱✨"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_2.jpg", 
+      "caption": "To endless walks 🚶‍♂️ and long talks together 💬"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_3.jpg",
+      "caption": "Let’s cherish even the little moments like this 🧡🥰"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_4.jpg",
+      "caption": "Your personal photographer for all our cute moments 📸😄"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_5.jpg",
+      "caption": "Trying very hard to take my eyes off you 😍… and failing 🙈"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_6.jpg",
+      "caption": "Please keep looking at me like this — forever and always 🥺💘"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_7.jpg",
+      "caption": "Keep the kisses coming 😘, my love 💫. Let’s trade kisses like there’s no tomorrow 😘🔥"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_8.jpg",
+      "caption": "I promise to shower you with love and affection, just like this mist 🌫️💖"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_9.jpg",
+      "caption": "When you sit on my lap 🫶, the world fades away and all I see is you 🌍✨"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_10.jpg",
+      "caption": "Your head on my shoulder, your arms around me 🤍, my hand on your waist… my heart feels so full 🥹"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_11.jpg",
+      "caption": "lifting you up in my arms 🫂, feeling your heartbeat against mine… makes my heart skip a beat 💓 and my soul feel complete 💫"
+    },
+   {
+      "image": "/src/assets/couple_photo/couple_photo_12.jpg",
+      "caption": "Your presence is my energy ⚡, your love is my strength 💪, and your smile is my happiness 😊"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_13.jpg",
+      "caption": "I get lost in your eyes 😵‍💫 and never want to find my way out… exploring this beautiful maze with you 🗺️💞"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_14.jpg",
+      "caption": "I’ll make you smile today, tomorrow, and forever beyond 😊🌈"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_15.jpg",
+      "caption": "I’d go down on one knee a thousand times, just to choose you every day 💍❤️"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_16.jpg",
+      "caption": "Your lips on my cheek 😘, the warmth of your embrace 🤗… it feels timeless, like something that lasts forever ♾️💫"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_17.jpg",
+      "caption": "Warm embraces, holding hands 🤝, feeling my heartbeat against your shoulders, makes me skip a beat and feel like I’m floating on the clouds and I never want to come down from this high of love and happiness with you.Warm embraces, holding hands 🤝, feeling my heartbeat against your shoulder… I’m floating with you ☁️💓"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_18.jpg",
+      "caption": "Let’s keep looking at each other like this forever and build a beautiful future together 🏡🌸"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_19.jpg",
+      "caption": "You light me up like eternal sunshine ☀️, and I just want to bask in your warmth 🌻"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_20.jpg",
+      "caption": "Your hands give me the warmest comfort 🤲, like being wrapped in love 🧣"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_21.jpg",
+      "caption": "Thank you for showing me what true love feels like 🙏 — I’ll cherish you today, tomorrow, and always 💝"
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_22.jpg",
+      "caption": "To many adventures together, my love 🧭💞 — I can’t wait to explore the world with you by my side 🌍✨"
+    }
+    
+  ],
+  "prosCons": [
+    {
+      "gif": "/src/assets/Santa-bear.gif",
+      "text": "I'll be your forever santa, showering you with gifts and surprises 🎁🎅"
+    },
+    {
+      "gif": "/src/assets/comfort-bear.gif", 
+      "text": "Unlimited comfort and care"
+    },
+    {
+      "gif": "/src/assets/cute-bear.gif",
+      "text": "I will torture you with soo much love and care that you won't know what to do with it 😍"
+    },
+    {
+      "gif": "/src/assets/kiss-bears.gif",
+      "text": "Unlimited hugs & kisses\n(non-negotiable 😏)"
+    },
+    {
+      "gif": "/src/assets/photo-bear.gif",
+      "text": "Your personal photographer for all the cute moments 📸"
+    },
+    {
+      "gif": "/src/assets/Teddy-Bear.gif",
+      "text": "Will spoil you with my love and affection every single day 🥰"
+    }
+  ],
+  "songs": [
+    {
+      "id": 1,
+      "title": "Oorum Blood Unplugged",
+      "duration": "1:17",
+      "album": "Dude",
+      "artist": "Sai Abhyankkar",
+      "cover": "/src/assets/album-covers/Dude.jpg",
+      "audio": "/src/assets/songs/Oorum Blood Unplugged.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Eppadi Vandhaayo",
+      "duration": "2:49", 
+      "album": "Aaromaley",
+      "artist": "Siddhu Kumar, Vignesh Ramakrishna, Chinmayi, Anand Aravindakshan",
+      "cover": "/src/assets/album-covers/Aaromaley.jpg",
+      "audio": "/src/assets/songs/Eppadi Vandhaayo.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Hey Minnale",
+      "duration": "3:49",
+      "album": "Amaran",
+      "artist": "Haricharan, Shweta Mohan",
+      "cover": "/src/assets/album-covers/Amaran.jpg",
+      "audio": "/src/assets/songs/Hey Minnale.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Vazhithunaiye",
+      "duration": "3:38",
+      "album": "Dragon",
+      "artist": "Sid Sriram, Sanjana Kalamanje",
+      "cover": "/src/assets/album-covers/Dragon.jpg",
+      "audio": "/src/assets/songs/Vazhithunaiye.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Thangapoovey",
+      "duration": "4:00",
+      "album": "Madharaasi",
+      "artist": "Anirudh Ravichander, Ravi G",
+      "cover": "/src/assets/album-covers/Madharaasi.jpg",
+      "audio": "/src/assets/songs/Thangapoovey.mp3"
+    }
+  ],
+  "letter": {
+    "title": "My Dearest Pattukutty,",
+    "content": [
+      "From the moment you walked into my life, everything began to feel warmer, brighter, and more meaningful ✨",
+    "You are my first experience of love, and I’m so grateful that it’s you. I once felt like a person without feelings — almost like a little ‘robo’ — but you turned me into someone with a beating heart, and now it beats only for you 🤍",
+    "Before you, my life felt like a desert… empty and silent. You came in and turned everything upside down, and now it feels like a beautiful rainforest — full of life, colour, and warmth 🌿",
+    "You were right in front of me all along, yet it took 28 years for us to truly meet. I guess beautiful things take time ✨",
+    "And when the time is right, love comes like a storm — sweeping us off our feet, just like it did to us 🌧️💫",
+    "Loving you comes so effortlessly — in your smile, your laughter, and the quiet comfort I feel whenever I’m with you 💞",
+    "You are my forever. When I look into your eyes, I can see our whole life ahead — filled with happiness and all the little moments we’ll share 🤍",
+    "So tell me… will you accept me as your forever? 💍"
+    ],
+    "signature": "Forever Yours,\nRagul"
+  },
+  "navigation": {
+    "backToLove": "Back to Love",
+    "backToGifts": "Back to Gifts",
+    "backToPhotos": "Back to Photos",
+    "backToSongs": "Back to Songs",
+    "backToLetter": "Back to Letter"
+  },
+  "tooltips": {
+    "previous": "Previous",
+    "next": "Next",
+    "play": "Play",
+    "pause": "Pause"
+  }
+}
